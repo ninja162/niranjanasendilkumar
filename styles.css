@@ -42,6 +42,11 @@ nav ul li a:hover {
     overflow: hidden;
 }
 
+.parallax {
+    position: relative;
+    transform: translateZ(0);
+}
+
 section {
     padding: 20px 0;
 }
