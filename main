@@ -1,0 +1,4 @@
+mkdir niranjana-website
+cd niranjana-website
+git init
+
