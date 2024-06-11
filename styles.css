@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: brown;
+    background-color: #744F1E;
 }
 
 header {
@@ -16,7 +16,7 @@ header {
 nav ul {
     list-style: none;
     padding: 0;
-    background: #444;
+    background: #744F1E;
     text-align: center;
     margin: 0;
 }
@@ -33,7 +33,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background: #575757;
+    background: #EFD9BC;
 }
 
 .container {
